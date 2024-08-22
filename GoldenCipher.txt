@@ -1,0 +1,9 @@
+Cryptography idea
+i am developing an algorithm to facilitate encryption 
+
+this is as a part of the cryptography mini-project that i have to do....
+
+the algorithm works on the basis of creating an encrypted string by applying XOR between the string and the Fibonacci sequence
+
+for example)
+abcdef should convert to [a XOR 0][b XOR 1][c XOR 1][d XOR 2][e XOR 3][f XOR 5] and so on... 
